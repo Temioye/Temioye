@@ -1,7 +1,7 @@
 # 💫 About Me:
 I love building things with code, and I'm fascinated by what data and AI can do to make everyday work simpler and fairer.<br><br>
 My background is in public services, which is where I got hooked on data: seeing how the right numbers, in the right shape, change the decisions people make. I started coding during lockdown and haven't stopped since.<br><br>
-🔭 Currently working on **Token Analytics**: tracking AI usage and cost by team, then connecting it to money made or time saved, so every team ends up with one clear ROI output (like cost per ticket resolved).<br>
+🔭 Currently working on **Token Analytics**: tracking AI usage and cost by team, then connecting it to money made or time saved, so every team ends up with one clear ROI output. <br>
 📊 I enjoy turning messy data into something clear and useful<br>
 ⚙️ I like building APIs and apps that solve real problems<br>
 🤖 I'm always experimenting with AI and finding practical uses for it
